@@ -1,0 +1,31 @@
+{
+  "name": "손끝공방 - 핸드메이드 비누캔들",
+  "short_name": "손끝공방",
+  "description": "직접 만드는 비누와 캔들, 손끝공방 온라인 스토어",
+  "start_url": "/gnuboard5/",
+  "scope": "/gnuboard5/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8a6d4b",
+  "lang": "ko",
+  "icons": [
+      {
+        "src": "/gnuboard5/theme/soapshop/icons/icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/gnuboard5/theme/soapshop/icons/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/gnuboard5/theme/soapshop/icons/icon-512-maskable.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ]
+}
